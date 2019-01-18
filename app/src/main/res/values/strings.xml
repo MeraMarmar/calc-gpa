@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">gpa_12</string>
+    <string name="subject">Subject</string>
+    <string name="grad">Grad</string>
+    <string name="name">How to Know My Gpa</string>
+    <string name="Calculate_Gpa">Calculate Gpa</string>
+    <string name="Keep_gpa">Keep Gpa</string>
+    <string name="azkary">Azkary</string>
+    <string name="schedule">Studing Schedule</string>
+    <string name="exit">Exit</string>
+    <string name="setting">Settings</string>
+    <string name="help">Help</string>
+    <string name="course">Course Name</string>
+    <string name="hour">Hours</string>
+
+    <string-array name="index">
+        <item>قبل المذاكره</item>
+        <item>عند البدء في حل الامتحان</item>
+        <item>قبل البدء بالحل</item>
+        <item>أثناء الامتحان</item>
+        <item>عند النسيان فى الامتحان</item>
+        <item>بعد الانتهاء من الامتحان</item>
+        <item>دعاء لتقوية الذاكره </item>
+        <item>أدعية لسهولة المذاكرة والحفظ </item>
+
+    </string-array>
+
+</resources>
